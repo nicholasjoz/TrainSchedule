@@ -1,0 +1,14 @@
+.mainForm {
+    float:center;
+    margin-left:40px;
+    margin-top:40px;
+}
+
+.picture {
+    float:right;
+}
+
+.cardtitle {
+    color:blueviolet;
+    background-color:red;
+}
